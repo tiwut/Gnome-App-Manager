@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Gnome App Manager
+GenericName=Application Manager & Uninstaller
+Comment=Cleanly uninstall applications and purge residual files, caches, and system configs
+Exec=python3 /home/tiwut/Documents/dev/uninstaller/main.py
+Icon=/home/tiwut/Documents/dev/uninstaller/data/io.github.GnomeAppManager.svg
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;Settings;PackageManager;
+Keywords=Uninstall;Remove;Cleaner;Revo;Flatpak;RPM;DNF;Cache;Residual;
+StartupNotify=true
