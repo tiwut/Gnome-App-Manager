@@ -6,6 +6,8 @@
 
 It discovers all installed applications across **Flatpak**, **RPM / DNF**, **Debian / APT**, **Arch / Pacman**, **Canonical Snap**, and standalone **AppImages**, inspects **where every single app stores its data**, and executes clean removals with deep residual scans for lingering files, folders, and system entries.
 
+<img width="1378" height="1056" alt="image" src="https://github.com/user-attachments/assets/d8b5637b-767d-4f57-aa92-7091a86f7615" />
+
 ---
 
 ## One-Line Quick Install (Any Linux Distro)
